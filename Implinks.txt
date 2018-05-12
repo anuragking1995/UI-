@@ -1,0 +1,6 @@
+https://github.com/nicinabox/superslides
+icons8
+https://github.com/mattboldt/typed.js/
+flatuicolors.com
+https://owlcarousel2.github.io/OwlCarousel2/
+https://github.com/rendro/easy-pie-chart
