@@ -14,4 +14,10 @@ http://fancyapps.com/fancybox/3/
 bootstrap navigation menu
 http://getbootstrap.com/docs/4.0/components/navbar/
 making sticky navbar
+icons8 preloaders
+bootstrap viewport=>proper rendeering on mobile devices
+
+
+
+
 
