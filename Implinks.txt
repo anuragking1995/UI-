@@ -6,3 +6,7 @@ https://owlcarousel2.github.io/OwlCarousel2/
 https://github.com/rendro/easy-pie-chart
 https://fontawesome.com/
 https://github.com/bfintal/Counter-Up
+https://isotope.metafizzy.co
+https://unpkg.com/isotope-layout@3.0.6/dist/isotope.pkgd.min.js
+flagui colors
+http://fancyapps.com/fancybox/3/
