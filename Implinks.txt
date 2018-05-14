@@ -10,3 +10,8 @@ https://isotope.metafizzy.co
 https://unpkg.com/isotope-layout@3.0.6/dist/isotope.pkgd.min.js
 flagui colors
 http://fancyapps.com/fancybox/3/
+
+bootstrap navigation menu
+http://getbootstrap.com/docs/4.0/components/navbar/
+making sticky navbar
+
